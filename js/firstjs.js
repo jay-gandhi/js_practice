@@ -5,6 +5,7 @@ var person = {
     rules : 'mah rulez'
 };
 
+
 console.log(person.address + person.rules);
 
 var anonFunc = function(a){
@@ -15,3 +16,6 @@ var anonFunc = function(a){
 anonFunc({
    firstName : 'JavaScript' 
 });
+
+console.log(person.address + person.rules);
+
