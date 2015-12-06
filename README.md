@@ -11,3 +11,11 @@ var foo = function() { return 5; }
 
 </div>
 <div><p>Function : Function declarations loads before any code is executed.</p></div>
+
+<div>
+    <p>argument keyword : It contains array-like (Not an Array) of all arguments passed in function.</p>
+</div>
+
+<div>
+    <h3>IIFEs : Immeduateky invoked Function Expression</h3>
+</div>
