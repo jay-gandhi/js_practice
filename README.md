@@ -17,5 +17,5 @@ var foo = function() { return 5; }
 </div>
 
 <div>
-    <h3>IIFEs : Immeduateky invoked Function Expression</h3>
+    <h3>IIFEs : Immediately invoked Function Expression</h3>
 </div>
